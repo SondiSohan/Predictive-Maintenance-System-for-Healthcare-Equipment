@@ -1,6 +1,6 @@
 # Predictive-Maintenance-System-for-Healthcare-Equipment
 * Introduction:In healthcare facilities, the reliability of equipment is paramount for ensuring uninterrupted patient care and improving outcomes. Downtime or failures in healthcare equipment can lead to delays in treatment, compromised patient safety, and increased costs. To address these challenges, we propose the development of a Predictive Maintenance System for Healthcare Equipment. This system integrates various data science techniques to predict equipment failures proactively, schedule maintenance, and optimize equipment reliability.
-* 3. Methodology
+* 3. Methodology :
 
 * Data Collection and Preprocessing:
 
