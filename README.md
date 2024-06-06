@@ -7,6 +7,7 @@ Data Collection and Preprocessing:
 Sensor Data: Real-time data from various sensors (temperature, pressure, etc.).
 NLP on Clinical Records: Extraction of relevant information from maintenance logs and clinical records.
 Image Analysis: Analysis of medical images (X-rays, MRIs) to identify anomalies.
+The data from datasets are synthetic datasets you can see the datasets at main section files.
 Predictive Modeling:
 
 Time-Series Analysis: Forecasting equipment failures based on sensor data trends.
